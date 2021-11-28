@@ -1,3 +1,9 @@
+#bin and obj directories
+
+bin/
+obj/
+.suo
+
 # Logs
 logs
 *.log
